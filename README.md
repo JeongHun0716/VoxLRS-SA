@@ -1,4 +1,5 @@
 # VoxLRS-SA
+To validate our proposed speaker adaptive lip reading method in real-world scenarios, we introduce a new dataset named VoxLRS-SA, derived from VoxCeleb2 and LRS3 datasets.
 This repository contains the speaker ID information of VoxCeleb2 and LRS3 audio-visual datasets, which is the outcome of the following paper:
 > **Personalized Lip Reading: Adapting to Your Unique Lip Movements with Vision and Language**<be>
 ><br>
