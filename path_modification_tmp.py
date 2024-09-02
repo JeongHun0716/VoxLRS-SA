@@ -21,7 +21,9 @@ def path_modification(path_to_datasets):
                         tsv_pth = f'{purpose}/{duration}/voxlrs-{id}/{split}.tsv'
                         tsv_lines = open(tsv_pth).readlines()
                         new_tsv_lines = [x.replace('/mnt/ssd4/Dataset', path_to_datasets) for x in tsv_lines]
-                    
+                        
+                        with open(tsv_pth, 'w') as f:
+                            f.write(''.join(new_tsv_lines))
                     
 if __name__ == '__main__':
     import argparse
