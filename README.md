@@ -51,3 +51,13 @@ For more information, please refer to our paper.
 ### Contributing
 For more accurate speaker information, we welcome your participation in improving label information.
 
+## Citation
+If you find this work useful in your research, please cite the paper:
+```bibtex
+@article{yeo2024personalized,
+  title={Personalized Lip Reading: Adapting to Your Unique Lip Movements with Vision and Language},
+  author={Yeo, Jeong Hun and Kim, Chae Won, Kim, Hyunjun, Rha, HyeongSeop, Han, Seunghee, Wen-Huang Cheng, Ro, Yong Man},
+  journal={arXiv preprint arXiv:2409.00986},
+  year={2024}
+}
+```
