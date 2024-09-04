@@ -4,7 +4,7 @@ This repository contains the speaker ID information of VoxCeleb2 and LRS3 audio-
 > **Personalized Lip Reading: Adapting to Your Unique Lip Movements with Vision and Language**<be>
 ><br>
 > Jeong Hun Yeo, Chae Won Kim, Hyunjun Kim, Hyeongseop Rha, Seunghee Han, Wen-Huang Cheng, Yong Man Ro<br>
-> \[[Paper Link will be updated]()\]
+> \[[Paper](https://arxiv.org/abs/2409.00986)\]
 <div align="center"><img width="100%" src="img/img1.png?raw=true" /></div>
 
 ## Dataset preparation
